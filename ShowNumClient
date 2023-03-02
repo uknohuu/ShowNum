@@ -1,7 +1,7 @@
 // Program: ShowNum
 // Written by: Andrew Nguyen
-// Description: User will input two integers and it will output the rows/columbs with asterisks
-// Challenges::Figuring out how to get the desired amount of rows and columbs of asterisks.
+// Description: User will input two integers and it will output the rows/columns with asterisks
+// Challenges::Figuring out how to get the desired amount of rows and columns of asterisks.
 // Time Spent:1 Hour 30 Mins
 //
 //                   Revision History
