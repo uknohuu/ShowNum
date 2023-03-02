@@ -1,2 +1,2 @@
 # ShowNum
-# Input two integers and it will output a row and columb depending on what integers were inputted.
+# Input two integers and it will output a row and column depending on what integers were inputted.
